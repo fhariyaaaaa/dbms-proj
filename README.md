@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # dbms-proj
-=======
 # DBMS_-I519_Project
 DATA VISUALIATION IN DATABASE SYSTEMS 
 salaries.csv: Original dataset 
